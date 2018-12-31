@@ -31,8 +31,7 @@
 
 - 葫芦娃获胜
 
-  ![](https://github.com/njuxty/Test/blob/master/003.jpg)
-
+  ![](https://github.com/DarkMagicXYZ/Java-2018f-pics/blob/master/4.png)
 ***
 
 ### 项目详情
