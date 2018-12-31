@@ -23,7 +23,7 @@
 
 - 爷爷力挽狂澜
 
-  ![](D:\大四\JAVA\final\001.jpg)
+  ![](https://github.com/njuxty/Test/001.jpg)
 
 - 妖精获胜
 
