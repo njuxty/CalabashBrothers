@@ -23,15 +23,15 @@
 
 - 爷爷力挽狂澜
 
-  ![](https://github.com/njuxty/Test/001.jpg)
+  ![](https://github.com/njuxty/Test/blob/master/001.jpg)
 
 - 妖精获胜
 
-  ![](D:\大四\JAVA\final\002.jpg)
+  ![](https://github.com/njuxty/Test/blob/master/002.jpg)
 
 - 葫芦娃获胜
 
-  ![](D:\大四\JAVA\final\003.jpg)
+  ![](https://github.com/njuxty/Test/blob/master/003.jpg)
 
 ***
 
