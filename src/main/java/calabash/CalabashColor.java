@@ -30,13 +30,13 @@ public enum CalabashColor {  //将葫芦娃的颜色定义为枚举类，避免�
 	
 	private void setImage() {
         switch (order) {
-            case 1: image = new Image("file:images/001.jpg", 50, 50, false, false); break;
-            case 2: image = new Image("file:images/002.jpg", 50, 50, false, false); break;
-            case 3: image = new Image("file:images/003.jpg", 50, 50, false, false); break;
-            case 4: image = new Image("file:images/004.jpg", 50, 50, false, false); break;
-            case 5: image = new Image("file:images/005.jpg", 50, 50, false, false); break;
-            case 6: image = new Image("file:images/006.jpg", 50, 50, false, false); break;
-            case 7: image = new Image("file:images/007.jpg", 50, 50, false, false); break;
+            case 1: image = new Image("001.jpg", 50, 50, false, false); break;
+            case 2: image = new Image("002.jpg", 50, 50, false, false); break;
+            case 3: image = new Image("003.jpg", 50, 50, false, false); break;
+            case 4: image = new Image("004.jpg", 50, 50, false, false); break;
+            case 5: image = new Image("005.jpg", 50, 50, false, false); break;
+            case 6: image = new Image("006.jpg", 50, 50, false, false); break;
+            case 7: image = new Image("007.jpg", 50, 50, false, false); break;
             default: break;
         }
     }

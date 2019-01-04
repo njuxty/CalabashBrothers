@@ -4,7 +4,7 @@ import javafx.scene.image.Image;
 public final class CalabashBrothers extends Creature {	
 	int rank;  //给葫芦娃排序
 	
-	CalabashBrothers(CalabashColor cala){
+	public CalabashBrothers(CalabashColor cala){
 		name = cala.getName();
 		rank = cala.getOrder();
 		type = 0;

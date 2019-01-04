@@ -13,7 +13,7 @@ public final class Snake extends Monsters implements Cheer {
 		x = ix;
 		y = iy;
 		this.setattack(15);
-		this.image = new Image("file:images/010.jpg", 50, 50, false, false);
+		this.image = new Image("010.jpg", 50, 50, false, false);
 	}
 	
 	@Override

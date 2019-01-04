@@ -6,7 +6,7 @@ public final class Scorpion extends Monsters {
 		name = "老蝎";
 		type = 1;
 		this.setattack(10);
-		this.image = new Image("file:images/009.jpg", 50, 50, false, false);
+		this.image = new Image("009.jpg", 50, 50, false, false);
 	}
 	
 	Scorpion(int ix, int iy){
@@ -14,6 +14,6 @@ public final class Scorpion extends Monsters {
 		x = ix;
 		y = iy;
 		this.setattack(10);
-		this.image = new Image("file:images/009.jpg", 50, 50, false, false);
+		this.image = new Image("009.jpg", 50, 50, false, false);
 	}
 }

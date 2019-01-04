@@ -36,8 +36,8 @@ public class Gamebody extends Canvas{
 		Field gamefield=new Field();
 		ArrayList<Creature> bros=gamefield.getbrother();
 		ArrayList<Creature> mons=gamefield.getmonsters();
-		Image win = new Image("file:images/013.jpg", 750, 750, false, false);
-		Image lose = new Image("file:images/014.jpg", 750, 750, false, false);
+		Image win = new Image("013.jpg", 750, 750, false, false);
+		Image lose = new Image("014.jpg", 750, 750, false, false);
 		gamefield.setformation();
 		
 		Platform.runLater(new Runnable() {

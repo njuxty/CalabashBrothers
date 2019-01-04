@@ -13,7 +13,7 @@ public final class Grandpa extends Creature implements Cheer {
 		x = ix;
 		y = iy;
 		this.setattack(5);
-		this.image = new Image("file:images/008.jpg", 50, 50, false, false);
+		this.image = new Image("008.jpg", 50, 50, false, false);
 	}
 	
 	@Override

@@ -7,7 +7,7 @@ import javafx.scene.image.Image;
 
 public class Field {
 	public Creature empty = new Creature(-1,-1);
-	Image background = new Image("file:images/000.jpg", 750, 750, false, false);
+	Image background = new Image("000.jpg", 750, 750, false, false);
 	public grid[][] field = new grid[15][15];  //战场的每一个都有一个Creature对象，虚无是一种特殊的Creature；
 	ArrayList<CalabashBrothers> bros = new ArrayList<CalabashBrothers>();
 	ArrayList<Monsters> mons = new ArrayList<Monsters>();

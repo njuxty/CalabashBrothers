@@ -6,7 +6,7 @@ public class Monsters extends Creature{
 		name = "喽啰";
 		type = 1;
 		this.setattack(8);
-		this.image = new Image("file:images/011.jpg", 50, 50, false, false);}
+		this.image = new Image("011.jpg", 50, 50, false, false);}
 
 	
 	Monsters(int ix, int iy){
@@ -14,7 +14,7 @@ public class Monsters extends Creature{
 		x = ix;
 		y = iy;
 		this.setattack(8);
-		this.image = new Image("file:images/011.jpg", 50, 50, false, false);
+		this.image = new Image("011.jpg", 50, 50, false, false);
 	}
 	
 	

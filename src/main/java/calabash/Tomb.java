@@ -7,13 +7,13 @@ public class Tomb {
 	Image image;
 	
 	Tomb(){
-		this.image = new Image("file:images/012.jpg", 50, 50, false, false);
+		this.image = new Image("012.jpg", 50, 50, false, false);
 	}
 	
 	Tomb(int ix, int iy){
 		this.x = ix;
 		this.y = iy;
-		this.image = new Image("file:images/012.jpg", 50, 50, false, false);
+		this.image = new Image("012.jpg", 50, 50, false, false);
 	}
 	
 	public final Image getImage() {
